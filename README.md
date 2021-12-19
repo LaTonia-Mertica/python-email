@@ -6,7 +6,9 @@
 
 <br>
 
-**HOW IT WORKS**
+**HOW IT WORKS**<br>
+note as is this code only works with outlook email extensions such as ```@outlook``` and ```@hotmail``` et cetera 
+
 - enter email and password for sender into the first and second set of quotes, respectively, for ```conn.login```
 
 - ensure enter the **same email** for sender in both the first set of quotes inside the parentheses for ```conn.login``` and ```conn.sendmail``` 
