@@ -21,6 +21,7 @@
 That's all folks! Run the script == email sent!
 
 <br>
+<br>
 
 **NEXT STEPS**
 - add parallel code instructions for gmail and another popular email platform
